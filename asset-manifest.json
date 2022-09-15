@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cutshort/static/css/main.0c16c3d2.css",
+    "main.js": "/cutshort/static/js/main.490d70bc.js",
+    "static/js/787.0c3f432a.chunk.js": "/cutshort/static/js/787.0c3f432a.chunk.js",
+    "static/media/logo.svg": "/cutshort/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/cutshort/index.html",
+    "main.0c16c3d2.css.map": "/cutshort/static/css/main.0c16c3d2.css.map",
+    "main.490d70bc.js.map": "/cutshort/static/js/main.490d70bc.js.map",
+    "787.0c3f432a.chunk.js.map": "/cutshort/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c16c3d2.css",
+    "static/js/main.490d70bc.js"
+  ]
+}

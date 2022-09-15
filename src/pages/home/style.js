@@ -148,9 +148,13 @@ export const HomeContainer = styled.div`
                 background: #664de5;
                 border-radius: 50%;
                 text-align: center;
-                line-height: 60px;
+                line-height: 52px;
                 display: inline-block;
                 margin: 30px 0;
+
+                .icon{
+                    font-size: 17px;
+                }
 
             }
         }
